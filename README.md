@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dev-Astrak/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
