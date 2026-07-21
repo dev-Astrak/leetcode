@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-Astrak/leetcode/tree/master/0020-valid-parentheses) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/dev-Astrak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/dev-Astrak/leetcode/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/dev-Astrak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
