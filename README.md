@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-Astrak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dev-Astrak/leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-Astrak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dev-Astrak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/dev-Astrak/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-Astrak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
