@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dev-Astrak/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/dev-Astrak/leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/dev-Astrak/leetcode/tree/master/0066-plus-one) |
 | [1260-shift-2d-grid](https://github.com/dev-Astrak/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/dev-Astrak/leetcode/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dev-Astrak/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
