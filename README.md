@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/dev-Astrak/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dev-Astrak/leetcode/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/dev-Astrak/leetcode/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/dev-Astrak/leetcode/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dev-Astrak/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -112,5 +114,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/dev-Astrak/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
