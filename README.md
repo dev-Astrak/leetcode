@@ -60,6 +60,7 @@
 | [1140-stone-game-ii](https://github.com/dev-Astrak/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dev-Astrak/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/dev-Astrak/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dev-Astrak/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dev-Astrak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/dev-Astrak/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dev-Astrak/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dev-Astrak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dev-Astrak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,6 +134,7 @@
 | [0020-valid-parentheses](https://github.com/dev-Astrak/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-Astrak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dev-Astrak/leetcode/tree/master/0058-length-of-last-word) |
+| [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dev-Astrak/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dev-Astrak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dev-Astrak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -213,6 +216,7 @@
 | [1140-stone-game-ii](https://github.com/dev-Astrak/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dev-Astrak/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/dev-Astrak/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dev-Astrak/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
