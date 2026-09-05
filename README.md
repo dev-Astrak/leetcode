@@ -33,6 +33,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dev-Astrak/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dev-Astrak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dev-Astrak/leetcode/tree/master/3731-find-missing-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/dev-Astrak/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [1140-stone-game-ii](https://github.com/dev-Astrak/leetcode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/dev-Astrak/leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3904-smallest-stable-index-ii](https://github.com/dev-Astrak/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
