@@ -145,6 +145,7 @@
 | [0020-valid-parentheses](https://github.com/dev-Astrak/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-Astrak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dev-Astrak/leetcode/tree/master/0058-length-of-last-word) |
+| [0115-distinct-subsequences](https://github.com/dev-Astrak/leetcode/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dev-Astrak/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dev-Astrak/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -218,6 +219,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/dev-Astrak/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/dev-Astrak/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dev-Astrak/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/dev-Astrak/leetcode/tree/master/1140-stone-game-ii) |
