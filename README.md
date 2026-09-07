@@ -146,6 +146,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dev-Astrak/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/dev-Astrak/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/dev-Astrak/leetcode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/dev-Astrak/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dev-Astrak/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dev-Astrak/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -222,6 +223,7 @@
 | [0115-distinct-subsequences](https://github.com/dev-Astrak/leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/dev-Astrak/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dev-Astrak/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/dev-Astrak/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/dev-Astrak/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/dev-Astrak/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/dev-Astrak/leetcode/tree/master/1563-stone-game-v) |
