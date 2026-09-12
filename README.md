@@ -26,6 +26,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-Astrak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dev-Astrak/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dev-Astrak/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dev-Astrak/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dev-Astrak/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/dev-Astrak/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -93,6 +94,7 @@
 | [0035-search-insert-position](https://github.com/dev-Astrak/leetcode/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/dev-Astrak/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/dev-Astrak/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dev-Astrak/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/dev-Astrak/leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Combinatorics
 |  |
@@ -208,6 +210,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-Astrak/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-Astrak/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dev-Astrak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dev-Astrak/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/dev-Astrak/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/dev-Astrak/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/dev-Astrak/leetcode/tree/master/3731-find-missing-elements) |
@@ -231,6 +234,7 @@
 | [1563-stone-game-v](https://github.com/dev-Astrak/leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/dev-Astrak/leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dev-Astrak/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dev-Astrak/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
