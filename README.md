@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/dev-Astrak/leetcode/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/dev-Astrak/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/dev-Astrak/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dev-Astrak/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dev-Astrak/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-Astrak/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dev-Astrak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +145,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/dev-Astrak/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dev-Astrak/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/dev-Astrak/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/dev-Astrak/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -159,6 +161,7 @@
 | [0058-length-of-last-word](https://github.com/dev-Astrak/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/dev-Astrak/leetcode/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/dev-Astrak/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dev-Astrak/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/dev-Astrak/leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dev-Astrak/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/dev-Astrak/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dev-Astrak/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/dev-Astrak/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-Astrak/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dev-Astrak/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dev-Astrak/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
