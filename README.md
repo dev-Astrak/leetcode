@@ -25,6 +25,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/dev-Astrak/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/dev-Astrak/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/dev-Astrak/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-Astrak/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dev-Astrak/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dev-Astrak/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dev-Astrak/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -207,6 +208,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/dev-Astrak/leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/dev-Astrak/leetcode/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-Astrak/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [1563-stone-game-v](https://github.com/dev-Astrak/leetcode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/dev-Astrak/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/dev-Astrak/leetcode/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-Astrak/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/dev-Astrak/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/dev-Astrak/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/dev-Astrak/leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -354,4 +357,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dev-Astrak/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dev-Astrak/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-Astrak/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
