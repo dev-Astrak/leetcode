@@ -49,6 +49,7 @@
 | [3731-find-missing-elements](https://github.com/dev-Astrak/leetcode/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/dev-Astrak/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/dev-Astrak/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/dev-Astrak/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
