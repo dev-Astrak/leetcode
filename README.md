@@ -45,6 +45,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/dev-Astrak/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/dev-Astrak/leetcode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dev-Astrak/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dev-Astrak/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/dev-Astrak/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dev-Astrak/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/dev-Astrak/leetcode/tree/master/3731-find-missing-elements) |
@@ -249,6 +250,7 @@
 | [1254-number-of-closed-islands](https://github.com/dev-Astrak/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/dev-Astrak/leetcode/tree/master/1260-shift-2d-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/dev-Astrak/leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dev-Astrak/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [1254-number-of-closed-islands](https://github.com/dev-Astrak/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/dev-Astrak/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/dev-Astrak/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dev-Astrak/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -368,6 +371,7 @@
 | [1096-brace-expansion-ii](https://github.com/dev-Astrak/leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/dev-Astrak/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/dev-Astrak/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dev-Astrak/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -439,6 +443,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/dev-Astrak/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/dev-Astrak/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/dev-Astrak/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
