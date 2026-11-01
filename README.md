@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/dev-Astrak/leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/dev-Astrak/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/dev-Astrak/leetcode/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dev-Astrak/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/dev-Astrak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/dev-Astrak/leetcode/tree/master/0835-image-overlap) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/dev-Astrak/leetcode/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dev-Astrak/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/dev-Astrak/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dev-Astrak/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/dev-Astrak/leetcode/tree/master/0836-rectangle-overlap) |
